@@ -1,0 +1,9 @@
+pub const GRID_W: i32 = 28;
+pub const GRID_H: i32 = 18;
+pub const WINDOW_W: f32 = 1600.0;
+pub const WINDOW_H: f32 = 960.0;
+pub const TILE_WORLD_SIZE: f32 = 3.0;
+pub const HUD_PANEL_W: f32 = 440.0;
+pub const HUD_MARGIN: f32 = 16.0;
+pub const HOURS_PER_DAY: u32 = 24;
+pub const SIM_SECONDS_PER_HOUR: f32 = 0.75;

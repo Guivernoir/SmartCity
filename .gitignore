@@ -1,0 +1,15 @@
+/target/
+PLAN.md
+
+# Local editor state
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local runtime clutter
+*.log
+*.tmp
+
+# Local snapshot captures
+smartcity*.png
