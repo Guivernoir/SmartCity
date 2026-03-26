@@ -1,6 +1,6 @@
 # SmartCity Forge
 
-Bevy-based 3D city-builder prototype focused on utility coverage, OT/security decisions, and a Steam-ready presentation path.
+Bevy-based 3D city-builder prototype focused on utility coverage and OT/security decisions.
 
 ## Launch
 
